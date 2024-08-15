@@ -1,10 +1,12 @@
  <h1 align="center">Hi 👋, I'm Nikhil Kesarwani</h1>
-
-🔭 I’m currently working on Flutter projects and building my startup myBookrack
-🌱 I’m currently learning Generative AI and Machine Learning
-💬 Ask me anything about Flutter, tech, or entrepreneurship
-📫 How to reach me: nikhilkesarwani079@gmail.com
-⚡ Fun fact: I’m always curious and love exploring new tech!
+ 
+<ul>
+  <li>🔭 I’m currently working on Flutter projects and building my startup <strong>myBookrack</strong></li>
+  <li>🌱 I’m currently learning <strong>Generative AI</strong> and <strong>Machine Learning</strong></li>
+  <li>💬 Ask me anything about Flutter, tech, or entrepreneurship</li>
+  <li>📫 How to reach me: <a href="mailto:nikhilkesarwani079@gmail.com">nikhilkesarwani079@gmail.com</a></li>
+  <li>⚡ Fun fact: I’m always curious and love exploring new tech!</li>
+</ul>
   
 ### Connect with me:
 <div id="badges">
