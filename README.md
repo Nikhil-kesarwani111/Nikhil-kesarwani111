@@ -20,7 +20,10 @@
 </div>
 
 ### Languages and Tools:
+![LLM Apps](https://img.shields.io/badge/LLM%20Applications-Udemy-blueviolet?logo=udemy&logoColor=white)
+
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,python&perline=5)](https://skillicons.dev)
+
 
 ![Nikhil-kesarwani111 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikhil-kesarwani111&show_icons=true&theme=dark)
 
